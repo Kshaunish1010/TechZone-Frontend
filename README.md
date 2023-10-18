@@ -4,7 +4,7 @@ Welcome to TechZone, a fully responsive E-Commerce website that caters to all yo
 
 ## Visit Website
 
-- **Visit TechZone**: [TechZone E-Commerce Website]([http://melodious-bombolone-538c0d.netlify.app/])
+- **Visit TechZone**: [TechZone E-Commerce Website](http://melodious-bombolone-538c0d.netlify.app/)
 
 ## GitHub Repository
 
