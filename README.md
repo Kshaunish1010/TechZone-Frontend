@@ -8,7 +8,7 @@ Welcome to TechZone, a fully responsive E-Commerce website that caters to all yo
 
 ## GitHub Repository
 
-- **GitHub Repository URL**: [TechZone GitHub Repository](https://github.com/yourusername/TechZone)
+- **GitHub Repository URL**: [TechZone GitHub Repository](https://github.com/Kshaunish1010/TechZone-Frontend)
 
 ## Features
 
