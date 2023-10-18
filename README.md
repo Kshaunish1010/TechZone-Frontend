@@ -46,7 +46,7 @@ To set up the development environment:
 
 To start the servers:
 
-* Start the frontend and backend servers separately using the following commands in their respective directories:
+* Start the frontend servers using the following commands in their respective directories:
     * Run:`npm start`
 
 To access the application:
