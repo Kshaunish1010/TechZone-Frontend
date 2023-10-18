@@ -39,3 +39,16 @@ To get started with TechZone, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kshaunish1010/TechZone-Frontend.git
+   
+To set up the development environment:
+
+* Install the Node.js dependencies: `npm install`
+
+To start the servers:
+
+* Start the frontend and backend servers separately using the following commands in their respective directories:
+    * Run:`npm start`
+
+To access the application:
+
+* Open a web browser and navigate to the provided URL (usually `http://localhost:3000`).
