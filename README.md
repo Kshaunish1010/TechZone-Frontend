@@ -30,7 +30,6 @@ TechZone is a state-of-the-art E-Commerce website with a focus on technology pro
 
 8. **Shopping Cart**: TechZone offers a shopping cart where users can add products, update quantities, and proceed to checkout. The cart system is user-friendly and ensures a seamless shopping process.
 
-9. **Secure Payments**: The website provides secure payment processing, including various payment methods such as credit/debit cards and digital wallets.
 
 ## Getting Started
 
