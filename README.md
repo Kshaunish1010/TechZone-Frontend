@@ -38,4 +38,4 @@ To get started with TechZone, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TechZone.git
+   git clone https://github.com/Kshaunish1010/TechZone-Frontend.git
